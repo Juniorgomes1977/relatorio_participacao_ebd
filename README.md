@@ -1,2 +1,1 @@
-# relatorio_participacao_ebd
-Neste relatório é possível fazer a identificação da participação dos membros por semana.
+Neste código em Pythom, foi utilizado a biblioteca Matplolib para analisar os dados de participação dos membros da Igreja Cristã Maranata na Escola Bíblica Dominical (EBD), a partir da análise dos dados foi criado um gráfico de barras mostrando a participação das respostas EBD no período de um mês e meio, o gráfico foi separado em semanas mostrando a participação da primeira a sexta semana (período correspondente a um mês e meio). A partir dos gráficos foi possível analisar a medida de participações e a porcentagem total de participantes em comparação com o total de membros da igreja.
